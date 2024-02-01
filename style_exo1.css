@@ -1,0 +1,63 @@
+body{
+    /* background: fixed;
+    background-color: dodgerblue; */
+}
+h1
+{
+        text-align: center;
+       
+
+
+
+}
+p{
+    text-align: center;
+}
+
+form
+{
+     border: 1px solid black;
+     padding-left: 45px;
+     padding-right: 45px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-bottom: 30px;
+     margin-left: 60px;
+     margin-right: 60px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+
+     
+     
+
+}
+label
+{
+    line-height: 30px;
+   
+}
+input 
+{
+    height: 15px;
+    border-radius: 5px;
+    border: 1px solid darkgray;
+  
+
+}
+button
+{
+    
+    background-color: rgb(115, 179, 242);
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    
+
+
+    
+    
+    
+}
+
